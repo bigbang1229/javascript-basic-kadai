@@ -1,7 +1,7 @@
-let bodyWeight;
-bodyWeight = 60;
+let weight;
+weight = 68;
 
 let height;
 height = 1.7;
 
-console.log(bodyWeight / height * height);
+console.log (weight / (height * height));
